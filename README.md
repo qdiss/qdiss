@@ -109,8 +109,6 @@ Node.js · APIs                    Linux · Nginx                     Infra & Mo
   <img alt="github-snake" src="https://raw.githubusercontent.com/qdiss/qdiss/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> ⚙️ *To enable the snake animation, add the [GitHub Actions workflow](https://github.com/Platane/snk) to your profile repository.*
-
 ---
 
 ## 📬 Get In Touch
