@@ -24,9 +24,9 @@ Currently sharpening my security operations skills through hands-on labs, focusi
 ## 🎯 Current Focus
 
 ```text
-► Learning DevOps fundamentals - CI/CD, containers, infrastructure as code
-► Exploring Security Operations (SoC) - monitoring, threat detection, incident response
-► Bridging my full-stack background with modern DevSecOps practices
+► Completing the TryHackMe SOC Level 1 Learning Path
+► Deepening knowledge in SIEM tools, Log Analysis, and Threat Hunting
+► Bridging Full-Stack & DevOps fundamentals with Security Operations (SecOps)
 ```
 
 ---
@@ -61,8 +61,8 @@ Currently sharpening my security operations skills through hands-on labs, focusi
 
 | Certificate | Issuer | Status |
 |---|---|---|
-| [Security+](https://www.comptia.org/certifications/security) | CompTIA | 🔄 In Progress |
-| [SOC Level 1](https://tryhackme.com/path/outline/soclevel1) | TryHackMe | 🔄 In Progress |
+| [Security+]() | CompTIA | 🔄 In Progress |
+| [SOC Level 1]() | TryHackMe | 🔄 In Progress |
 | [Pre-Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-B7V308QP0O.pdf) | TryHackMe | ✅ Completed |
 | [Cyber Security 101 Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YCRPPFTLAI.pdf) | TryHackMe | ✅ Completed |
 
