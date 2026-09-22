@@ -61,8 +61,8 @@ Currently sharpening my security operations skills through hands-on labs, focusi
 
 | Certificate | Issuer | Status |
 |---|---|---|
-| [Security+]() | CompTIA | 🔄 In Progress |
-| [SOC Level 1]() | TryHackMe | 🔄 In Progress |
+| [Security+](#) | CompTIA | 🔄 In Progress |
+| [SOC Level 1](#) | TryHackMe | 🔄 In Progress |
 | [Pre-Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-B7V308QP0O.pdf) | TryHackMe | ✅ Completed |
 | [Cyber Security 101 Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YCRPPFTLAI.pdf) | TryHackMe | ✅ Completed |
 
@@ -108,5 +108,5 @@ Open to collaborations, opportunities, or just a good technical conversation.
 ---
 
 <p align="center">
-  <i>Building the bridge between development and operations - one pipeline at a time.</i>
+  <i>Defending systems by understanding how they are built — from code to logs.</i>
 </p>
